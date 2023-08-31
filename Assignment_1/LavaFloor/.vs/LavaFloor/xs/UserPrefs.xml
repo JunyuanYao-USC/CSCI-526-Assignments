@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{09E81656-B82A-794D-6FEF-3993D178E078}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BallTransform.cs">
+    <Files>
+      <File FileName="Assets/HelloWorld.cs" Line="12" Column="30" />
+      <File FileName="Assets/BallTransform.cs" Line="27" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LavaFloor" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BallTransform.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="22fd4731-e1ea-46cc-9d43-1fcd7544bafb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

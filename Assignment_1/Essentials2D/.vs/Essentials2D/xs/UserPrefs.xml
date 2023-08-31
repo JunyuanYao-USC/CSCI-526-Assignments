@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{A4F5F255-CE84-1F97-75F4-A5C515D2231F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FallBallWhenPressSpace.cs">
+    <Files>
+      <File FileName="Assets/FallBallWhenPressSpace.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Essentials2D" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="63f0a610-cc26-4618-afb2-fdbca0edbfb3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
