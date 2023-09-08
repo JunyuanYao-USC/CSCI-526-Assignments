@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 52e1b785fe27e41a298b764ec3135141
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -747,7 +747,7 @@ PlayerSettings:
   cloudProjectId: 3106189c-5ef3-499d-b17d-215fcb0a9cfe
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: EssentialsOfAudio
   organizationId: junyuanyao
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
